@@ -1,6 +1,11 @@
 # OpenSource_23_12_04
 Open Source Programming week14 example
 <h1><b> 기말 프로젝트 <br> 1. python 코드 > linux, windows, mac <br> 2. 보고서 양식 </b> </h1>
+<br> <h3>
+ 올려준 코드를 주석 참고하고, 오류 수정, 코드 깔끔하게 변경 등 간략화 시키고 이를 바탕으로 보고서 작성 <br>
+ 문제는 약 3~5문제 보고서는 hwpx/hwp <br>
+ 각 문항별 수정사항이나 문법 사용 이유 변경 이유 등 보고서에 기술하면 됨
+</h3><br> <br>
 
 동해물과 백두산이 마르고 닳도록
 하느님이 보우하사 우리나라 만세
