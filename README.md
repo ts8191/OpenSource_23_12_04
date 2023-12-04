@@ -1,5 +1,7 @@
 # OpenSource_23_12_04
 Open Source Programming week14 example
+<h1><b> 기말 프로젝트 <br> 1. python 코드 > linux, windows, mac 2. 보고서 양식 </b> </h1>
+
 동해물과 백두산이 마르고 닳도록
 하느님이 보우하사 우리나라 만세
 무궁화 삼천리 화려강산 
